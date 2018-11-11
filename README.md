@@ -5,7 +5,6 @@
 * [Roy Fielding - Representational State Transfer (REST)](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 * [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
 * [What is the Richardson Maturity Model?](http://restcookbook.com/Miscellaneous/richardsonmaturitymodel/)
-
 * [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/)
 * [HTTP Status Codes](https://www.restapitutorial.com/httpstatuscodes.html)
 
@@ -29,11 +28,11 @@
 
 **Java libraries**
 
-* [JUnit](http://junit.org/junit5/)/TestNG](https://testng.org/doc/index.html) - unit testing libraries
-* [RestAssured](http://rest-assured.io/), Apache HTTP Client](http://hc.apache.org/httpcomponents-client-ga/index.html) - HTTP clients
+* [JUnit](http://junit.org/junit5/)/[TestNG](https://testng.org/doc/index.html) - unit testing libraries
+* [RestAssured](http://rest-assured.io/), [Apache HTTP Client](http://hc.apache.org/httpcomponents-client-ga/index.html) - HTTP clients
 * [Gson](https://github.com/google/gson)/[Jackson](https://github.com/FasterXML/jackson) - for object mapping (choose the one that is not used by your team’s developers)
 * [JsonAssert](https://github.com/skyscreamer/JSONassert) - Write JSON unit tests in less code
-* [jsonschema2pojo](Generate Plain Old Java Objects from JSON or JSON-Schema) - Generate Plain Old Java Objects from JSON or JSON-Schema
+* [jsonschema2pojo](http://www.jsonschema2pojo.org/) - Generate Plain Old Java Objects from JSON or JSON-Schema
 * [WireMock](http://wiremock.org/) - WireMock is a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server
 
 **Python libraries**
